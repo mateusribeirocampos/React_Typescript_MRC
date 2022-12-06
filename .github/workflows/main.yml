@@ -7,7 +7,7 @@ on:
 
 jobs:
   deploy:
-    runs-on: Windows 10
+    runs-on: Windows
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v1
