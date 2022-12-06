@@ -11,3 +11,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+h1 {
+  margin: 0;
+  padding: 0;
+  background-color: aqua;
+  color: brown;
+  font-family: Georgia;
+}
+
+p {
+  margin: 0;
+  padding: auto;
+  color: black;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
